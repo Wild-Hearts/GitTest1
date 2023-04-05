@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("gitTest111");
         System.out.println("gitTest222");
         System.out.println("进行热修复");
+        System.out.println("第二次热修复");
     }
 }
